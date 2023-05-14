@@ -1,4 +1,4 @@
-# NextJS Full Beginner Course [2023]
+# NextJS Full Beginner Course from [codinginflow](https://github.com/codinginflow) [2023]
 
 Watch the course here: https://www.youtube.com/watch?v=e1EIwuO-Dlo
 
